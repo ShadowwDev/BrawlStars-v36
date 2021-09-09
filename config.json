@@ -1,0 +1,23 @@
+{
+  "Username": "Player",
+  "Gold": 99999,
+  "Gems": 99999,
+  "StarPoints": 99999,
+  "BrawlBoxTokens": 0,
+  "BigBoxTokens": 0,
+  "Trophies": 99999,
+  "HighestTrophies": 999999,
+  "ExperiencePoints": 999999,
+  "NameColor": 0,
+  "Thumbnail": 0,
+  "TrophyRoadReward": 300,
+  "Region": "RO",
+  "SupportedContentCreator": "CB Team",
+  "ThemeID": 27,
+  "HomeBrawler": 0,
+  "BrawlersTrophies": 999,
+  "BrawlersHighestTrophies": 99999,
+  "BrawlersPowerPoints": 0,
+  "BrawlersLevel": 1,
+  "Environment": "dev"
+}
